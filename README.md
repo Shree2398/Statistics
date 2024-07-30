@@ -1,2 +1,2 @@
-# Statistics
+statistics
 CLT (Central Limit Theorem)
